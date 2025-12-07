@@ -1,0 +1,11 @@
+ultralytics
+opencv-python
+numpy
+streamlit
+pillow
+reportlab
+pandas
+scikit-learn
+tqdm
+requests
+flask
