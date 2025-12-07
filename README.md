@@ -38,7 +38,7 @@ User-friendly interface for demo and deployment.
 Custom YOLO Training Notebook  
 
 ---
-##  Project Structure
+## 📁 Project Structure
 pothole-damage-detection/
 │
 ├── app/
