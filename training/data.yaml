@@ -1,0 +1,14 @@
+# YOLOv8 dataset configuration file
+
+# Base dataset folder
+path: ./dataset_template
+
+# Folders inside dataset_template
+train: images
+val: images
+
+# Number of classes
+nc: 1
+
+# Class name(s)
+names: ["road_damage"]
