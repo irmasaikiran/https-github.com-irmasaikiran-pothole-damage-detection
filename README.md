@@ -11,7 +11,7 @@ It also estimates the **repair cost** automatically using:
 1. **Model 2 – Road-Type Based Cost**  
 2. **Model 3 – PWD Standard Government Cost**
 3. 
-## 🚀 Features
+##  Features
 
 ### 🖼 Image Damage Detection  
 Upload any road image → Detect damages → Estimate repair cost.
@@ -22,7 +22,7 @@ Upload road inspection video → Frame-by-frame detection → Total damage area 
 ### 📏 Damage Area Calculation  
 Bounding-box pixel area → Converted to approximate m².
 
-### 💰 Cost Estimation Models  
+###  Cost Estimation Models  
 - **Model 2**  
   - Asphalt: ₹500/m²  
   - Concrete: ₹800/m²  
@@ -35,10 +35,10 @@ Bounding-box pixel area → Converted to approximate m².
 ###  Streamlit Web Application  
 User-friendly interface for demo and deployment.
 
-🧠 Custom YOLO Training Notebook  
+Custom YOLO Training Notebook  
 
 ---
-## 📁 Project Structure
+##  Project Structure
 pothole-damage-detection/
 │
 ├── app/
@@ -67,8 +67,6 @@ pothole-damage-detection/
 │
 ├── requirements.txt
 ├── LICENSE
-
-
 ---
 
 ## ⚙️ Installation
