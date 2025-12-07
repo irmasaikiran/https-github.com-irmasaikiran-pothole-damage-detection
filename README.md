@@ -42,33 +42,32 @@ Custom YOLO Training Notebook
 pothole-damage-detection/
 │
 ├── app/
-│ ├── app.py
-│ ├── detect_image.py
-│ ├── detect_video.py
-│ ├── cost_estimator.py
-│ ├── utils.py
+│   ├── app.py
+│   ├── detect_image.py
+│   ├── detect_video.py
+│   ├── cost_estimator.py
+│   └── utils.py
 │
 ├── models/
-│ └── download_weights.py
+│   └── download_weights.py
 │
 ├── training/
-│ ├── train_custom_yolo.ipynb
-│ ├── data.yaml
-│ └── dataset_template/
-│ ├── images/
-│ └── labels/
+│   ├── train_custom_yolo.ipynb
+│   ├── data.yaml
+│   └── dataset_template/
+│       ├── images/
+│       └── labels/
 │
 ├── docs/
-│ ├── Cost_Model_Explanation.pdf
+│   └── Cost_Model_Explanation.pdf
 │
 ├── samples/
-│ ├── sample_image.jpg
-│ └── sample_video.mp4
+│   ├── sample_image.jpg
+│   └── sample_video.mp4
 │
 ├── requirements.txt
 ├── LICENSE
----
-
+└── README.md
 ## ⚙️ Installation
 
 pip install -r requirements.txt
